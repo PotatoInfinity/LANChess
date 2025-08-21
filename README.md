@@ -62,7 +62,7 @@
 
 For users who want to play **offline without Wi-Fi**:
 
-1. **Install Connectify** on a Windows PC.  
+1. **Install Connectify** on a Windows device.  
 2. Launch Connectify and **create a Wi-Fi hotspot**.  
    - Give your hotspot a name (SSID) and password.  
 3. Connect other devices (Windows, Android, Mac) to this hotspot.  
