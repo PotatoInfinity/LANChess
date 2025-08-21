@@ -6,11 +6,11 @@
 
 ## Features
 
-- **Play over LAN** 🖥️  
+- **Play over LAN** 
   Connect directly to your friends’ devices on the same network.  
   No internet? No problem! Play anywhere using virtual router software like **Connectify**, even on planes or trains.  
 
-- **Cross-platform support** 💻  
+- **Cross-platform support** 
   - macOS (Intel + Apple Silicon)  
   - Windows x64  
   - iOS  
