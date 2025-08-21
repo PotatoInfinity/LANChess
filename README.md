@@ -24,7 +24,7 @@
 
 ---
 
-## Installation 🛠️
+## Installation
 
 ### macOS
 
@@ -42,7 +42,7 @@
 
 ---
 
-## Connectify Setup Guide 🖥️⚡
+## Connectify Setup Guide
 
 For users who want to play **offline without Wi-Fi**:
 
