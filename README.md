@@ -68,7 +68,7 @@ For users who want to play **offline without Wi-Fi**:
 3. Connect other devices (Windows, Android, Mac) to this hotspot.  
 4. Open LANChess on all devices and start a game!  
 
-> 💡 **Tip for Macos and iOS users:** You must connect to a **Windows or Android hotspot**, because macOS cannot host a hotspot for offline LANChess play.  
+> 💡 **Tip for Macos and iOS users:** You must connect to a **Windows or Android hotspot**, because macOS cannot host a hotspot for offline LANChess play due to system restrictions.  
 
 ---
 
