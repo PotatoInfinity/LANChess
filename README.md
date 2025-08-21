@@ -38,7 +38,23 @@
 
 1. Download **LANChess Setup 1.0.0.exe**.  
 2. Double-click to install.  
-3. Launch the app and play offline or on your LAN.  
+3. Launch the app and play offline or on your LAN.
+
+### iOS
+
+1. Download the app from the **App Store**.  
+2. Open LANChess and connect to the same LAN or a supported hotspot.  
+3. Start a game with friends!  
+
+> ⚠️ **Note for iOS:** To host offline games, your LAN must include at least one Windows or Android device running a virtual router (like Connectify), because iOS cannot host a hotspot for LANChess.  
+
+### Android
+
+1. Download the app from **Google Play**.  
+2. Connect to the same LAN or a supported hotspot.  
+3. Open LANChess and join or host a game.  
+
+> 💡 Tip: Android devices can also **host a hotspot** for offline LANChess play, making it easy for Mac or iOS users to connect.  
 
 ---
 
@@ -52,7 +68,7 @@ For users who want to play **offline without Wi-Fi**:
 3. Connect other devices (Windows, Android, Mac) to this hotspot.  
 4. Open LANChess on all devices and start a game!  
 
-> 💡 **Tip for Mac users:** You must connect to a **Windows or Android hotspot**, because macOS cannot host a hotspot for offline LANChess play.  
+> 💡 **Tip for Macos and iOS users:** You must connect to a **Windows or Android hotspot**, because macOS cannot host a hotspot for offline LANChess play.  
 
 ---
 
