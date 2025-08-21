@@ -28,7 +28,7 @@
 
 ### macOS
 
-1. Download the `.dmg` from the releases.  
+1. Download the `.dmg` from the [releases](https://github.com/PotatoInfinity/LANChess/releases/tag/macos).  
 2. Open the DMG and drag **LANChess.app** to your Applications folder.  
 3. Launch the app and start a game!  
 
@@ -36,7 +36,7 @@
 
 ### Windows
 
-1. Download **LANChess Setup 1.0.0.exe**.  
+1. Download **LANChess Setup 1.0.0.exe** from the [releases](https://github.com/PotatoInfinity/LANChess/releases/tag/windows).
 2. Double-click to install.  
 3. Launch the app and play offline or on your LAN.
 
