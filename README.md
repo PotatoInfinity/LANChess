@@ -75,7 +75,7 @@ For users who want to play **offline without Wi-Fi**:
 ## How to Play
 
 1. Open LANChess on two or more devices connected to the same network (or Connectify hotspot).  
-2. One device **hosts the game**, the others join via the network.  
+2. One device **hosts the game**, the others join via the network. The host plays White, and the joiner plays Black.
 3. Start a chess match and enjoy!  
 
 > Works perfectly without internet — just make sure devices are on the same LAN or hotspot.  
