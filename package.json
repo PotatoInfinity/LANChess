@@ -4,63 +4,9 @@
   "description": "LANChess – play chess with friends over LAN, even without Wi-Fi!",
   "author": "Louis",
   "main": "main.js",
-  "scripts": {
-    "start": "electron .",
-    "build:mac": "electron-builder --mac --universal",
-    "build:win": "electron-builder --win --x64",
-    "build:all": "electron-builder --mac --universal --win --x64"
-  },
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.2",
-    "ip": "^1.1.8",
-    "sqlite3": "^5.1.7"
-  },
-  "devDependencies": {
-    "electron": "^28.2.3",
-    "electron-builder": "^24.9.1",
-    "electron-rebuild": "^3.2.9"
-  },
-  "build": {
-    "appId": "com.louis.lanchess",
-    "productName": "LANChess",
-    "directories": {
-      "output": "dist"
-    },
-    "files": [
-      "main.js",
-      "preload.js",
-      "index.html",
-      "lz-string.min.js",
-      "engine/",
-      "assets/"
-    ],
-    "mac": {
-      "icon": "icon.icns",
-      "category": "public.app-category.games",
-      "hardenedRuntime": true
-    },
-    "dmg": {
-      "iconSize": 128,
-      "contents": [
-        {
-          "x": 130,
-          "y": 220,
-          "type": "file"
-        },
-        {
-          "x": 410,
-          "y": 220,
-          "type": "link",
-          "path": "/Applications"
-        }
-      ]
-    },
-    "win": {
-      "icon": "icon.ico",
-      "target": [
-        "nsis"
-      ]
-    }
+    "ip": "^1.1.8"
   }
 }
